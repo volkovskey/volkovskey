@@ -1,8 +1,8 @@
 Hello, world!
 
-My main area of expertise is ASP.NET (Angular, Razor Pages). I also have other Python projects, such as a bot for converting currencies in Telegram, which has more than 300,000 active users - <a href="https://t.me/exchange_rates_vsk_bot">ERTB</a>.
+My main area of expertise is ASP.NET (Angular, Razor Pages). I also have other Python projects, such as a bot for converting currencies in Telegram, which has more than 440,000 active users - <a href="https://t.me/exchange_rates_vsk_bot">ERTB</a>.
 
-I do most of my projects together with friends, so they are hosted on the organization: <a href="https://github.com/VirtualSoftKey">VirtualSoftKey</a>.
+I do most of my projects together with friends, so they are hosted on the organization: <a href="https://github.com/Lanasys">Lanasys</a>.
 
 Some info about me:<br>
 <table>
@@ -66,7 +66,7 @@ My projects:<br>
       <a href="https://t.me/exchange_rates_vsk_bot">Bot</a>
     </td>
     <td>
-      <a href="https://github.com/VirtualSoftKey/exchange-rates-tg-bot">Source code</a> (MIT)
+      <a href="https://github.com/Lanasys/exchange-rates-tg-bot">Source code</a> (MIT)
     </td>
     <td>
       Bot for currency rates. Works in the background in group chat (and private messages) and converts the currency from your message to pre-configured currencies.
@@ -83,7 +83,7 @@ My projects:<br>
       <a href="">Site</a> (soon)
     </td>
     <td>
-      <a href="https://github.com/VirtualSoftKey/GraphView">Source code</a> (MIT)
+      <a href="https://github.com/Lanasys/GraphView">Source code</a> (MIT)
     </td>
     <td>
       A website for analyzing FrameView program logs, where you can build a large number of graphs and compare the results. A site for computer geeks, YouTube creators, and overclocking beginners.
