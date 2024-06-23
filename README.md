@@ -1,12 +1,12 @@
 # volkovskey
 
 ## Hello, world! 🌍
-- [Hello, world! 🌍](#hello-world-🌍)
-- [Socials 📲](#socials=📲)
-- [About me 👨‍💻](#about-me-👨‍💻)
-- [Keypoints](#keypoints-👇)
-- [Technology stack 💻](#technology-stack-💻)
-- [Stats from my profile ⭐](#stats-from-my-profile-⭐)
+- Hello, world! 🌍
+- Socials 📲
+- About me 👨‍💻
+- Keypoints
+- Technology stack 💻
+- Stats from my profile ⭐
 
 ## Socials 📲
 <div align="center">
